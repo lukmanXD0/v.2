@@ -14,6 +14,6 @@
 - 
 # MAIN CAMMANDS
 - `git clone https://github.com/lukmanXD0/v.2`
-- `cd v.2'
-- `ls'
-- `python dump_enc'
+- `cd v.2`
+- `ls`
+- `python dump_enc.py`
