@@ -1,4 +1,4 @@
-# FB-BOOT
+
 # INSTALLATIONS
 
 - `pkg update`
@@ -11,9 +11,9 @@
 - `pip install bs4`
 - `pkg install git`
 - `pip install rich`
+- 
 # MAIN CAMMANDS
-
-#git clone https://github.com/lukmanXD0/v.2
-#cd v.2
-#ls
-#python dump_enc.py
+- `git clone https://github.com/lukmanXD0/v.2`
+- `cd v.2'
+- 'ls'
+_'python dump_enc.py'
